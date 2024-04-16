@@ -64,7 +64,6 @@ const Image(
 )
  //Estilizando o texto
 ```
-# Telas_do_app
 
 
       
