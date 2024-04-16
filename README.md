@@ -4,12 +4,14 @@ Duck Hunt é um jogo do NES lançado em 1984 pela Nintendo. Sua interação era
 # Codigos utilizados para a construção do app
 
  * Troca de Img
+ ```javascript
   List<String> images = [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIZccfNPnqalhrWev-Xo7uBhkor57_rKbkw&usqp=CAU",
     "https://wallpaperaccess.com/full/2637581.jpg",
     "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg",
     "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
   ];
+
 
   PageView.builder(
             itemCount: 2,
@@ -30,21 +32,28 @@ Duck Hunt é um jogo do NES lançado em 1984 pela Nintendo. Sua interação era
 })
 )
   // Faz a troca de imagens👍🏿
+
+```
   
  * Add. Img
-  const Image(
+```javascript
+const Image(
   image: NetworkImage('https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg'),
 )
   // Criacao de uma imagem 
- 
+ ```
+
  * Add. Button
+```javascript
   IconButton(
     onPressed: () {},
     icon: const Icon(Icons.sunny),
   ),
     //Adiciona funcionalidade ao botão
-
+```
+ 
  * Add. Text
+```javascript
   Text(
     "Texto_App",
     style: TextStyle(
@@ -54,3 +63,4 @@ Duck Hunt é um jogo do NES lançado em 1984 pela Nintendo. Sua interação era
     ),
 )
  //Estilizando o texto
+```
