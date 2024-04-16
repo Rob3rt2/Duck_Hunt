@@ -1,7 +1,7 @@
 # Duck_Hunt
 Duck Hunt é um jogo do NES lançado em 1984 pela Nintendo. Sua interação era com a pistola Zapper, visto que pertencia a linha Light Gun. Também permitia outros modos de partida, incluindo acertar discos e dois patos ao mesmo tempo na tela.
 
-# Codigos utilizados para a construção do app
+# Códigos utilizados para a construção do app
 
  * Troca de Img
  ```javascript
@@ -64,3 +64,111 @@ const Image(
 )
  //Estilizando o texto
 ```
+# Telas_do_app
+
+* Primeira tela
+  Será mostrara a tela de carregamento do app
+
+* Segunda tela
+  Será mostrado a tela inicial com os botões de (Historia do jogo, Jogabilidade e Fases)
+
+* Terceira tela
+  Quando selecionado o Button "Hitoria" é selecionado, ele contara um pouco da historia do jogo
+
+* Quarta tela
+  Quando selecionado o Button "Jogabilidade" ele mostrara as diferentes formas de jogabilidades que o jogo tem
+
+* Quinta tela
+  Quando selecionado o Button "Fases" ele mostrara fotos das fases e tambem mostrara o cachorro e o pato e explicara um pouco deles
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
