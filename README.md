@@ -67,20 +67,24 @@ const Image(
 # Telas_do_app
 
 * Primeira tela
-  Será mostrara a tela de carregamento do app
+ Ira mostrar a tela de carregamento
+<img src="![Carregamento](https://github.com/RuanPSilva/Duck_Hunt/assets/128431007/dc7aaa06-466e-42ee-b432-01e513a4954a)">
 
 * Segunda tela
   Será mostrado a tela inicial com os botões de (Historia do jogo, Jogabilidade e Fases)
+<img src="![Inicial](https://github.com/RuanPSilva/Duck_Hunt/assets/128431007/22860f63-5b9b-4093-965a-a8186a16f5f7)">
 
 * Terceira tela
   Quando selecionado o Button "Hitoria" é selecionado, ele contara um pouco da historia do jogo
+ <img src="![Historia](https://github.com/RuanPSilva/Duck_Hunt/assets/128431007/4d398a82-f05f-489d-b07e-b708956e13db)">
 
 * Quarta tela
   Quando selecionado o Button "Jogabilidade" ele mostrara as diferentes formas de jogabilidades que o jogo tem
+<img src="![Jogabilidade](https://github.com/RuanPSilva/Duck_Hunt/assets/128431007/da3b8715-88c6-4828-b766-067049673233)">
 
 * Quinta tela
   Quando selecionado o Button "Fases" ele mostrara fotos das fases e tambem mostrara o cachorro e o pato e explicara um pouco deles
-
+<img src="![Fases](https://github.com/RuanPSilva/Duck_Hunt/assets/128431007/846631ab-6865-487b-86c5-30b32b5d86c8)">
       
 
 
