@@ -1,6 +1,6 @@
-# 🌌Aplicativo Asteroids☄️
+# Aplicativo Duck Hunt
 
-## Integrantes: Leonardo Macedo e Ruan Pablo
+## Integrantes:   Carlos Alarcon e Ruan Pablo
 
 Esse projeto está desenvolvendo um protótipo de um jogo utilizando as sua características, para reelembrar as pessoas sobre esse jogo que foi sucesso na época que foi lançado, fazendo assim pessoas mais "veteranas" reelebraram e pessoas mais recentes descobrirem um jogo que foi bastante conhecido.
 
