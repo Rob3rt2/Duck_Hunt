@@ -1,6 +1,6 @@
 # Aplicativo Duck Hunt
 
-## Integrantes:   Carlos Alarcon e Ruan Pablo
+## Integrantes:   Carlos Alarcon e Fernanda Viana
 
 Esse projeto está desenvolvendo um protótipo de um jogo utilizando as sua características, para reelembrar as pessoas sobre esse jogo que foi sucesso na época que foi lançado, fazendo assim pessoas mais "veteranas" reelebraram e pessoas mais recentes descobrirem um jogo que foi bastante conhecido.
 
