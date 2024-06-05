@@ -17,27 +17,7 @@ Esse projeto está desenvolvendo um protótipo de um jogo utilizando as sua cara
 
 [º Códigos Utilizados](https://github.com/RuanPSilva/Duck_Hunt/wiki/C%C3%B3digos-utilizados)
 
+## Wikis do Aplicativo
+[º Desenvolvimento aplicativo](https://github.com/RuanPSilva/Duck_Hunt/wiki/Desenvolvimento-Aplicativo)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[º Vídeo do aplicativo funcionando](https://github.com/RuanPSilva/Duck_Hunt/wiki/V%C3%ADdeo-do-aplicativo-funcionando)
