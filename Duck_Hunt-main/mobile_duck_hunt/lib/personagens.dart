@@ -14,7 +14,7 @@ class Personagens{
         },
         {
           imagem = 'imageUrl': 'img/modoB.png',
-          desc = 'description': 'São usados como "Mira ai alvo" fazendo eles fugirem do cachorro, a função do jogador é eliminar os patos antes que fujam.',
+          desc = 'description': 'São usados como "Mira ai alvo" fazendo eles fugirem do cachorro, a função do jogador é eliminar os patos antes que fujam!',
           nome = 'title': 'Pato',
         },
       ];
